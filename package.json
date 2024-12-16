@@ -1,0 +1,25 @@
+{
+  "name": "jhoss-cheat-sheet",
+  "version": "1.0.0",
+  "description": "A collection of cheat sheets for various programming languages and git commands to streamline my workflow and enhance productivity. This repository serves as a quick reference to common patterns and solutions.",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhosseeth/cheat-sheet.git"
+  },
+  "keywords": [
+    "cheat",
+    "sheet"
+  ],
+  "author": "jhosseeth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhosseeth/cheat-sheet/issues"
+  },
+  "homepage": "https://github.com/jhosseeth/cheat-sheet#readme",
+  "dependencies": {
+  }
+}
